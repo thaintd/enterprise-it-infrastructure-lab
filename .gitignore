@@ -1,0 +1,13 @@
+# Bicep / ARM
+*.bicepparam.user
+.azure/
+
+# Terraform (nếu dùng thêm sau này)
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
